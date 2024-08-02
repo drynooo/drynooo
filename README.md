@@ -12,10 +12,13 @@ For private audits, I can be contacted through Twitter or Discord.
 
 | Findings             | Results    | 
 |:-------------------|:-------------|
-| 13 High 19 Medium | $13,388.75 |
+| 14 High 23 Medium | $16,709.62 |
 
 | Date             | Contest                                                                       | Platform                                                                                 | Findings | Payout |
 |:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:|:-------:|
+|July 2024 | CCIP v1.5 | CodeHawks | 1 Medium |$2575.25 |
+|June 2024 | Vultisig | Code4rena | 1 Medium |$591.87 |
+|June 2024 | Thorchain | Code4rena | 1 High 2 Medium |$153.75 |
 |May 2024 | Midas | Sherlock | 1 High |$656.97 |
 |May 2024  | Munchables | Code4rena | 1 High 1 Medium |$450.41 |
 |May 2024  | Napier Finance - LST/LRT Integrations | Sherlock | 1 High 3 Medium |$1,099.68 |
