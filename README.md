@@ -12,11 +12,12 @@ For private audits, I can be contacted through Twitter or Discord.
 
 | Findings             | Results    | 
 |:-------------------|:-------------|
-| 14 High 23 Medium | $16,709.62 |
+| 14 High 24 Medium | $18,622.43 |
 
 | Date             | Contest                                                                       | Platform                                                                                 | Findings | Payout |
 |:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:|:-------:|
 |July 2024 | CCIP v1.5 | CodeHawks | 1 Medium |$2575.25 |
+|July 2024 | Badger eBTC Zap Router | Code4rena | 1 Medium |$1912.81 |
 |June 2024 | Vultisig | Code4rena | 1 Medium |$591.87 |
 |June 2024 | Thorchain | Code4rena | 1 High 2 Medium |$153.75 |
 |May 2024 | Midas | Sherlock | 1 High |$656.97 |
