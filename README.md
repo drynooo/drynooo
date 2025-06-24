@@ -5,7 +5,9 @@ You can reach out for security reviews via:
 - **X:** [@drynooo](https://x.com/drynooo)
 - **Discord:** @drynooo
 
-For **private audits**, I can be contacted through Twitter or Discord. (**Early-Stage Discount**)
+For **private audits**, I can be contacted through X or Discord. (**Early-Stage Discount**)
+
+Feel free to send DMs; I will reply within 24h.
 
 ## Total Results
 
