@@ -13,6 +13,8 @@ Feel free to send DMs; I will reply within 24h.
 
 | Date             | Contest                                                                       | Platform                                                                                 | Findings | Payout |
 |:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:|:-------:|
+|Jun 2025 | Symbiotic Relay | Sherlock | 3 Medium |$3,606.17 |
+|Jun 2025 | Chainlink Rewards | Code4rena | 1 Medium |$22,797.63 |
 |May 2025 | Usual ETH0 | Sherlock | 1 Medium |$3,910 |
 |Apr 2025 | Burve | Sherlock | 2 High 2 Medium 1 solo |$3,408.66 |
 |Apr 2025 | Metropolis | Cantina | 2 High 7 Medium |$1,389.41 |
