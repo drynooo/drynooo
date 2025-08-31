@@ -12,7 +12,7 @@ Feel free to send DMs; I will reply within 24h.
 ## Highlights
 
 - [chainlink](https://code4rena.com/audits/2024-11-chainlink) 100% coverage.
-- [Chainlink Rewards](https://code4rena.com/audits/2025-06-chainlink-rewards) Covered critical vulnerabilities.
+- [Chainlink Rewards](https://code4rena.com/audits/2025-06-chainlink-rewards) Covered key vulnerabilities.
 - [CCIP v1.5](https://codehawks.cyfrin.io/c/2024-07-CL-CCIP/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard) 100% coverage.
 - [burve](https://audits.sherlock.xyz/contests/858) Found a solo issue in a contest with 703 participants.
 
